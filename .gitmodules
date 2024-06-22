@@ -1,0 +1,3 @@
+[submodule "datasets/coco2017"]
+	path = datasets/coco2017
+	url = https://huggingface.co/datasets/whyen-wang/coco2017
