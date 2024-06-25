@@ -1,3 +1,6 @@
 [submodule "my_datasets/coco2017"]
 	path = my_datasets/coco2017
 	url = https://huggingface.co/datasets/whyen-wang/coco2017
+[submodule "my_models/resnet_model"]
+	path = my_models/resnet_model
+	url = https://huggingface.co/whyen-wang/resnet_model
