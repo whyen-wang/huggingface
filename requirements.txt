@@ -1,7 +1,8 @@
 accelerate==0.31.0
 albumentations==1.4.10
-evaluate==0.4.2
+evaluate[template]==0.4.2
 datasets==2.20.0
+flake8==7.1.0
 gradio==4.36.1
 huggingface-hub==0.23.4
 ipykernel==6.29.4
