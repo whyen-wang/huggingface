@@ -4,3 +4,6 @@
 [submodule "my_models/resnet_model"]
 	path = my_models/resnet_model
 	url = https://huggingface.co/whyen-wang/resnet_model
+[submodule "my_spaces/my_metric"]
+	path = my_spaces/my_metric
+	url = https://huggingface.co/spaces/whyen-wang/my_metric
