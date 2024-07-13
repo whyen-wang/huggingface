@@ -7,6 +7,12 @@
 [submodule "my_models/resnet_model"]
 	path = my_models/resnet_model
 	url = https://huggingface.co/whyen-wang/resnet_model
+[submodule "my_spaces/cocoeval"]
+	path = my_spaces/cocoeval
+	url = https://huggingface.co/spaces/whyen-wang/cocoeval
 [submodule "my_spaces/my_metric"]
 	path = my_spaces/my_metric
 	url = https://huggingface.co/spaces/whyen-wang/my_metric
+[submodule "my_datasets/coco_captions"]
+	path = my_datasets/coco_captions
+	url = https://huggingface.co/datasets/whyen-wang/coco_captions
