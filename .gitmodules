@@ -16,3 +16,6 @@
 [submodule "my_datasets/coco_captions"]
 	path = my_datasets/coco_captions
 	url = https://huggingface.co/datasets/whyen-wang/coco_captions
+[submodule "my_datasets/coco_detection"]
+	path = my_datasets/coco_detection
+	url = https://huggingface.co/datasets/whyen-wang/coco_detection
