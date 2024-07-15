@@ -1,6 +1,21 @@
 [submodule "my_datasets/coco2017"]
 	path = my_datasets/coco2017
 	url = https://huggingface.co/datasets/whyen-wang/coco2017
+[submodule "my_datasets/coco_captions"]
+	path = my_datasets/coco_captions
+	url = https://huggingface.co/datasets/whyen-wang/coco_captions
+[submodule "my_datasets/coco_detection"]
+	path = my_datasets/coco_detection
+	url = https://huggingface.co/datasets/whyen-wang/coco_detection
+[submodule "my_datasets/coco_keypoints"]
+	path = my_datasets/coco_keypoints
+	url = https://huggingface.co/datasets/whyen-wang/coco_keypoints
+[submodule "my_datasets/coco_panoptic"]
+	path = my_datasets/coco_panoptic
+	url = https://huggingface.co/datasets/whyen-wang/coco_panoptic
+[submodule "my_datasets/coco_stuff"]
+	path = my_datasets/coco_stuff
+	url = https://huggingface.co/datasets/whyen-wang/coco_stuff
 [submodule "my_datasets/mnist"]
 	path = my_datasets/mnist
 	url = https://huggingface.co/datasets/whyen-wang/mnist
@@ -13,12 +28,3 @@
 [submodule "my_spaces/my_metric"]
 	path = my_spaces/my_metric
 	url = https://huggingface.co/spaces/whyen-wang/my_metric
-[submodule "my_datasets/coco_captions"]
-	path = my_datasets/coco_captions
-	url = https://huggingface.co/datasets/whyen-wang/coco_captions
-[submodule "my_datasets/coco_detection"]
-	path = my_datasets/coco_detection
-	url = https://huggingface.co/datasets/whyen-wang/coco_detection
-[submodule "my_datasets/coco_keypoints"]
-	path = my_datasets/coco_keypoints
-	url = https://huggingface.co/datasets/whyen-wang/coco_keypoints
