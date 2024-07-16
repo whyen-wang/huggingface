@@ -1,6 +1,3 @@
-[submodule "my_datasets/coco2017"]
-	path = my_datasets/coco2017
-	url = https://huggingface.co/datasets/whyen-wang/coco2017
 [submodule "my_datasets/coco_captions"]
 	path = my_datasets/coco_captions
 	url = https://huggingface.co/datasets/whyen-wang/coco_captions
